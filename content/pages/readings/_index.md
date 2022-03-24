@@ -54,7 +54,7 @@ What is Military Doctrine? 
 
  Rosen, Stephen Peter. “Thinking about Military Innovation.” Chapter 1 in _Winning the Next War: Innovation and the Modern Military_. Cornell University Press, 1994, pp. 1–22. ISBN: 9780801481963. \[Preview with [Google Books](https://books.google.com/books?id=ncLRUf-q-XYC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-Cote, Jr., Owen R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Politics of Innovative Military Doctrine: The U.S. Navy and Fleet Ballistic Missiles.” (PDF - 26.6MB)](http://edocs.nps.edu/AR/topic/theses/1996/Feb/96Feb_Cote_PhD.pdf) Doctoral Thesis, Massachusetts Institute of Technology, 1996, pp. 6–40.
+Cote, Jr., Owen R. [“The Politics of Innovative Military Doctrine: The U.S. Navy and Fleet Ballistic Missiles.” (PDF - 26.6MB)](http://edocs.nps.edu/AR/topic/theses/1996/Feb/96Feb_Cote_PhD.pdf) Doctoral Thesis, Massachusetts Institute of Technology, 1996, pp. 6–40.
 
  Greenwood, Ted. “Overview.” Chapter 1 in _Making the MIRV: A Study of Defense Decision Making_. University Press of American, 1988. ISBN: 9780819170774. 
 
@@ -232,7 +232,7 @@ Fulghum, David A., and Robert Wall. “Data Link, EW Problems Pinpointed by Pent
 
 Isby, David C. “Targeting Pod Upgrade for F-16s.” _Air Force News_ 3, no. 18 (1999): 18.
 
-Tirpak, John A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Dealing With Air Defenses.” (PDF)](http://www.airforcemag.com/MagazineArchive/Documents/1999/November%201999/1199airdefense.pdf) _Air Force Magazine_, November 1999.
+Tirpak, John A. [“Dealing With Air Defenses.” (PDF)](http://www.airforcemag.com/MagazineArchive/Documents/1999/November%201999/1199airdefense.pdf) _Air Force Magazine_, November 1999.
 
 Bender, Bryan. “USAF to Expand Anti-radar Attack Capability.” _Jane’s Defence Weekly_ 32, no. 24 (1999): 10–11.
 
@@ -366,7 +366,7 @@ ISR Sensors and Networks
 
 Kaspar, Lt. Col. Beth M. “[Advanced Tactical Targeting Technology](https://www.yumpu.com/en/document/view/16948491/advanced-tactical-targeting-technology-at3-advanced-darpa).” DARPATech 99 presentation.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Advanced Tactical Targeting Technology (AT3).” slides (PDF - 1.04MB)](https://www.yumpu.com/en/document/view/16948491/advanced-tactical-targeting-technology-at3-advanced-darpa) (See slide 5 of 17.)
+———. [“Advanced Tactical Targeting Technology (AT3).” slides (PDF - 1.04MB)](https://www.yumpu.com/en/document/view/16948491/advanced-tactical-targeting-technology-at3-advanced-darpa) (See slide 5 of 17.)
 
 “Anti-Radar Weapon Development Pushed.” _Aviation Week & Space Technology_ (January 27, 1975): 107.
 
@@ -382,7 +382,7 @@ Andronov, Major A. “[The U.S. Navy’s ‘White Cloud’ Spaceborne ELINT Syst
 
 “[Precision SIGINT Targeting System (PSTS)](https://www.globalsecurity.org/intell/systems/psts.htm).”
 
-Jette, Lt. Col. Bruce D., Ph.D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Review of the Conclusion and Model of the SIGINT Mix Study.” (PDF)](https://fas.org/irp/program/collect/SIGINTWP.pdf) March 26, 1996.
+Jette, Lt. Col. Bruce D., Ph.D. [“Review of the Conclusion and Model of the SIGINT Mix Study.” (PDF)](https://fas.org/irp/program/collect/SIGINTWP.pdf) March 26, 1996.
 
 Fulghum, David A. “It Takes a Network to Beat a Network.” _Aviation Week & Space Technology_ 157, no. 20 (November 11, 2002): 28.
 
